@@ -1,0 +1,13 @@
+  # The following file contains information about items for sale at the kiosk.  The lines that
+  # begin with a # are comment lines and should be ignored.  How you decide to format this file 
+  # is up to you.  What you see here is simply an example of how you could format your file.
+ 
+  # event, "movie name", "description", numtickets, time, duration, price
+  # concession, "product name", "description", numavailable, sizes, prices
+
+
+  event, transformers, A movie about robots, 100, 9:00pm, 90, 12
+  concession, Pop corn, popped corn with butter, 60, large, 9
+  concession, runts, delicious hard candy, 40, small, 5
+  event, star wars, a space movie, 205, 5:30pm, 120, 15
+]

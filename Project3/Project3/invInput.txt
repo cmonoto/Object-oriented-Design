@@ -1,0 +1,7 @@
+event, Avenger, 18:00pm, This is a action movie, 100,  10.99, 90
+concession, Pop corn, popped corn with butter, 2.99, 1.99, 0.99 ,20, 15, 30
+concession, Candy, delicious hard candy, 2.09 , 1.49 , 1.09, 30, 25 , 15
+event, Furious 7,  5:30pm, This is a movie about speed, 205,  10.49, 120
+concession, Coke, probably everyone will buy one, 2.49 , 1.99 , 1.49, 50, 60 , 70
+concession, Ice cream, It is good choice when you feel hot, 2.99 , 1.99 , 0.99 , 20 , 13, 25
+concession, Crispy chicken, This is really delicious, 4.99 , 3.99 , 2.99 , 10 , 15 , 20

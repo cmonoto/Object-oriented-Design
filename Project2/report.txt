@@ -1,0 +1,16 @@
+in this project2, I change a lot from the first project.
+The major changes to my code:
+1. I create a new class name is cart,
+which is for get number of items when user want. 
+2. I change the event and concession to vector,
+by this way, I can caculate it no matter the item is 100 and 1000 or more
+3. I use a lot for loop in program, this is good for when I check which one is 
+user want, in project I using if userinput == 1 , do something, == 2, do something
+it is bad when there is 100 or 1000, it will make code become a lot
+4. I using open a file to input the information of event and concession
+
+why I change to this, because it makes my program can run if input is a lot which is means like 1000items
+in my project 1,I use a lot if else statement, and each event and concession I write like if input is 5
+it do something with 5, which is use a lot similar code, and repeat ti again and again
+now I using vector, and I can just use a for loop, it will check when the i == to user's input, 
+and it will do something, it is revising my code, it is good.
